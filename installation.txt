@@ -2,17 +2,17 @@
 Renomear pasta "KSP_x64_Data" para "ksp_Data" (pasta KSP);
 Renomear arquivo "KSP_x64.exe" para "ksp.exe" (pasta KSP);
 
-Criar um atalho do "ksp.exe" do KSP RO,
+Criar um atalho do "KSP_x64.exe" (pasta do KSP RO),
 Renomea-lo para "kspRO",
-Recorta-lo para a pasta do KSP;
+Joga-lo dentro da pasta do KSP;
 
-Recortar o "KSP_x64.exe" para dentro da pasta do KSP
+Jogar o "KSP_x64.exe" para dentro da pasta do KSP
 
 [EN-US]
 Rename folder "KSP_x64_Data" to "ksp_Data" (KSP folder);
 Rename file "KSP_x64.exe" to "ksp.exe" (KSP folder);
 
-Create a "ksp.exe" shortcut (KSP RO folder),
+Create a "KSP_x64.exe" shortcut (KSP RO folder),
 Rename it to "kspRO",
 Throw it in the KSP folder;
 
