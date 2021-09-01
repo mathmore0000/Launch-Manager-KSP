@@ -1,5 +1,0 @@
-C:\Users\mathe\OneDrive\Área de Trabalho\KSP_x64\KSP_x64\bin\Release\netcoreapp3.1\publish\KSP_x64.exe
-C:\Users\mathe\OneDrive\Área de Trabalho\KSP_x64\KSP_x64\bin\Release\netcoreapp3.1\publish\KSP_x64.dll
-C:\Users\mathe\OneDrive\Área de Trabalho\KSP_x64\KSP_x64\bin\Release\netcoreapp3.1\publish\KSP_x64.deps.json
-C:\Users\mathe\OneDrive\Área de Trabalho\KSP_x64\KSP_x64\bin\Release\netcoreapp3.1\publish\KSP_x64.runtimeconfig.json
-C:\Users\mathe\OneDrive\Área de Trabalho\KSP_x64\KSP_x64\bin\Release\netcoreapp3.1\publish\KSP_x64.pdb

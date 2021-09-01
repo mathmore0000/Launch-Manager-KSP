@@ -6,6 +6,7 @@ Criar um atalho do "KSP_x64.exe" (pasta do KSP RO),
 Renomea-lo para "kspRO",
 Joga-lo dentro da pasta do KSP;
 
+Descompactar KSP_x64.rar (muito grande para um commit);
 Jogar o "KSP_x64.exe" para dentro da pasta do KSP
 
 [EN-US]
@@ -16,4 +17,5 @@ Create a "KSP_x64.exe" shortcut (KSP RO folder),
 Rename it to "kspRO",
 Throw it in the KSP folder;
 
+Unzip KSP_x64.rar (too big for one commit);
 Throw "KSP_x64.exe" in the KSP folder;
