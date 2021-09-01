@@ -1,0 +1,2 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\KSP_x64\KSP_x64\bin\Release\netcoreapp3.1\publish\KSP_x64.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\KSP_x64\KSP_x64\bin\Release\netcoreapp3.1\publish\KSP_x64.exe
