@@ -29,6 +29,7 @@ namespace KSP_x64
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btn_cancelar = new System.Windows.Forms.Button();
             this.btn_jogar = new System.Windows.Forms.Button();
             this.pnlPrincipal = new System.Windows.Forms.Panel();
@@ -143,14 +144,16 @@ namespace KSP_x64
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::KSP_x64.Properties.Resources.steamksp1;
-            this.ClientSize = new System.Drawing.Size(376, 176);
+            this.ClientSize = new System.Drawing.Size(370, 176);
             this.Controls.Add(this.rdbKSPRO);
             this.Controls.Add(this.rdbKSP);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pnlPrincipal);
             this.Controls.Add(this.btn_jogar);
             this.Controls.Add(this.btn_cancelar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.pnlPrincipal.ResumeLayout(false);
