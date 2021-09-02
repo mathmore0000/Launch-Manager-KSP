@@ -143,8 +143,8 @@ namespace KSP_x64
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(370, 176);
+            this.BackgroundImage = global::KSP_x64.Properties.Resources.steamkspEN;
+            this.ClientSize = new System.Drawing.Size(373, 173);
             this.Controls.Add(this.rdbKSPRO);
             this.Controls.Add(this.rdbKSP);
             this.Controls.Add(this.label1);
