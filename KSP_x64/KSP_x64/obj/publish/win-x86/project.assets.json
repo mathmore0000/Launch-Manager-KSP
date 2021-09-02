@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Coisas para salvar\\coisas\\Desktop\\KSP_x64\\KSP_x64\\KSP_x64.csproj",
+      "projectUniqueName": "F:\\Coisas para salvar\\coisas\\Desktop\\KSP_x64\\KSP_x64\\KSP_x64\\KSP_x64.csproj",
       "projectName": "KSP_x64",
-      "projectPath": "F:\\Coisas para salvar\\coisas\\Desktop\\KSP_x64\\KSP_x64\\KSP_x64.csproj",
+      "projectPath": "F:\\Coisas para salvar\\coisas\\Desktop\\KSP_x64\\KSP_x64\\KSP_x64\\KSP_x64.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "F:\\Coisas para salvar\\coisas\\Desktop\\KSP_x64\\KSP_x64\\obj\\publish\\win-x86\\",
+      "outputPath": "F:\\Coisas para salvar\\coisas\\Desktop\\KSP_x64\\KSP_x64\\KSP_x64\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",

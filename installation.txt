@@ -7,6 +7,7 @@ Renomea-lo para "kspRO",
 Joga-lo dentro da pasta do KSP;
 
 Descompactar KSP_x64.rar (muito grande para um commit);
+Renomear o "KSP_x64PT.exe" para "KSP_x64.exe";
 Jogar o "KSP_x64.exe" para dentro da pasta do KSP
 
 [EN-US]
@@ -18,4 +19,5 @@ Rename it to "kspRO",
 Throw it in the KSP folder;
 
 Unzip KSP_x64.rar (too big for one commit);
+Rename "KSP_x64EN.exe" para "KSP_x64.exe";
 Throw "KSP_x64.exe" in the KSP folder;

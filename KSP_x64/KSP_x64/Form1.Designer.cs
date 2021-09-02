@@ -115,10 +115,10 @@ namespace KSP_x64
             this.rdbKSP.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.rdbKSP.Location = new System.Drawing.Point(28, 65);
             this.rdbKSP.Name = "rdbKSP";
-            this.rdbKSP.Size = new System.Drawing.Size(76, 18);
+            this.rdbKSP.Size = new System.Drawing.Size(84, 18);
             this.rdbKSP.TabIndex = 4;
             this.rdbKSP.TabStop = true;
-            this.rdbKSP.Text = "Iniciar KSP";
+            this.rdbKSP.Text = "Launch KSP";
             this.rdbKSP.UseVisualStyleBackColor = false;
             this.rdbKSP.CheckedChanged += new System.EventHandler(this.rdbKSP_CheckedChanged);
             this.rdbKSP.MouseClick += new System.Windows.Forms.MouseEventHandler(this.rdbKSP_MouseClick);
@@ -131,10 +131,10 @@ namespace KSP_x64
             this.rdbKSPRO.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.rdbKSPRO.Location = new System.Drawing.Point(28, 95);
             this.rdbKSPRO.Name = "rdbKSPRO";
-            this.rdbKSPRO.Size = new System.Drawing.Size(94, 18);
+            this.rdbKSPRO.Size = new System.Drawing.Size(102, 18);
             this.rdbKSPRO.TabIndex = 5;
             this.rdbKSPRO.TabStop = true;
-            this.rdbKSPRO.Text = "Iniciar KSP RO";
+            this.rdbKSPRO.Text = "Launch KSP RO";
             this.rdbKSPRO.UseVisualStyleBackColor = false;
             this.rdbKSPRO.CheckedChanged += new System.EventHandler(this.rdbKSPRO_CheckedChanged);
             this.rdbKSPRO.MouseClick += new System.Windows.Forms.MouseEventHandler(this.rdbKSPRO_MouseClick);
@@ -143,7 +143,7 @@ namespace KSP_x64
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::KSP_x64.Properties.Resources.steamksp1;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(370, 176);
             this.Controls.Add(this.rdbKSPRO);
             this.Controls.Add(this.rdbKSP);

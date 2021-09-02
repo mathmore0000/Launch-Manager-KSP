@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJEwFe2IRTCozMYAOlWQHtIthTzivDeZEZPPF9efO+jR6v16MtDu3FgVseNx1OXUUfF9Jh4W9u0PmWXPgnVWow==",
+  "dgSpecHash": "eNRcgGorpSlMF7ljSk5YcqI659KDNhfyeIP0qgM2bKrLJPw7OTuIg0giD46mRG2/Km8f1/qeAm5Cxz/MvR8uPw==",
   "success": true,
-  "projectFilePath": "F:\\Coisas para salvar\\coisas\\Desktop\\KSP_x64\\KSP_x64\\KSP_x64.csproj",
+  "projectFilePath": "F:\\Coisas para salvar\\coisas\\Desktop\\KSP_x64\\KSP_x64\\KSP_x64\\KSP_x64.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.13\\microsoft.netcore.app.runtime.win-x86.3.1.13.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.13\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.13.nupkg.sha512",

@@ -42,19 +42,21 @@ namespace KSP_x64
             btn_cancelar.FlatStyle = FlatStyle.Flat;
             btn_cancelar.ForeColor = BackColor;
             btn_cancelar.UseVisualStyleBackColor = true;
+            btn_cancelar.FlatAppearance.BorderSize = 0;
 
             btn_jogar.FlatAppearance.MouseDownBackColor = Color.Transparent;
             btn_jogar.FlatAppearance.MouseOverBackColor = Color.Transparent;
             btn_jogar.FlatStyle = FlatStyle.Flat;
             btn_jogar.ForeColor = BackColor;
             btn_jogar.UseVisualStyleBackColor = true;
+            btn_jogar.FlatAppearance.BorderSize = 0;
 
             btnFechar.FlatAppearance.MouseDownBackColor = Color.Transparent;
             btnFechar.FlatAppearance.MouseOverBackColor = Color.Transparent;
             btnFechar.FlatStyle = FlatStyle.Flat;
             btnFechar.ForeColor = BackColor;
-            btnFechar.FlatAppearance.BorderSize = 0;
             btnFechar.UseVisualStyleBackColor = true;
+            btnFechar.FlatAppearance.BorderSize = 0;
 
             btnMinimizar.FlatAppearance.MouseDownBackColor = Color.Transparent;
             btnMinimizar.FlatAppearance.MouseOverBackColor = Color.Transparent;
