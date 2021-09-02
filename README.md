@@ -12,7 +12,8 @@ Create a "KSP_x64.exe" shortcut (KSP RO folder), <br>
 Rename it to "kspRO", <br>
 Throw it in the KSP folder; <br>
 
-Unzip KSP_x64.rar (too big for one commit);<br>
+Unzip KSP_x64.rar (too big for one commit); <br>
+Renomear o "KSP_x64PT.exe" para "KSP_x64.exe";<br>
 Throw "KSP_x64.exe" in the KSP folder; <br> 
   
   <h4> [PT-BR] </h4>
@@ -24,4 +25,5 @@ Renomea-lo para "kspRO", <br>
 Joga-lo dentro da pasta do KSP; <br> 
 
 Descompactar KSP_x64.rar (muito grande para um commit); <br>
+Rename "KSP_x64EN.exe" to "KSP_x64.exe"; <br>
 Jogar o "KSP_x64.exe" para dentro da pasta do KSP;
