@@ -19,5 +19,5 @@ Rename it to "kspRO",
 Throw it in the KSP folder;
 
 Unzip KSP_x64.rar (too big for one commit);
-Rename "KSP_x64EN.exe" para "KSP_x64.exe";
+Rename "KSP_x64EN.exe" to "KSP_x64.exe";
 Throw "KSP_x64.exe" in the KSP folder;
